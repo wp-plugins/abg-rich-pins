@@ -3,7 +3,7 @@ Contributors: antoniobg
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=K9JLLUVBK9N7L&lc=US&item_name=ABG%20Rich%20Pins&item_number=abg%2drich%2dpins¤cy_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: pinterest, rich, pin, semantic, meta, social
 Requires at least: 3.3
-Tested up to: 3.5.1
+Tested up to: 3.6
 Stable tag: /tags/1.0/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
