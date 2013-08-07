@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+ Styles for ABG Rich Pins
+ Author: Antonio Borrero Granell
+ Project URI: 
+*/
+.pin_form_hidden {
+	visibility: hidden;
+}
