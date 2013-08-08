@@ -41,7 +41,7 @@ Pinterest doesn't validate ingredients in other languages
 
 == Screenshots ==
 
-1. 01-metabox
+1. metabox
 
 == Changelog ==
 = 1.0 =
