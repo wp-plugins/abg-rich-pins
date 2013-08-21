@@ -1,9 +1,19 @@
 /*
  JavaScript for ABG Rich Pins
  Author: Antonio Borrero Granell
- Project URI: 
+ Project URI: http://wordpress.org/plugins/abg-rich-pins/
 */
 jQuery(document).ready( function($) {  
+  var type = $("#abg_rp_pinType").val();
+  var subform = "#abg_rp_" + type + "Form";
+  $(subform).show();
+
+  $("#abg_rp_pinType").change( function() {
+    var newType = $("#abg_rp_pinType").val();
+    var newSubform = "#abg_rp_" + newType + "Form";
+    $(".pin_subform").hide(0);
+    $(newSubform).show(1000);
+  });
   $("#abg_rp_add_director").click( function() {
   	var numDirectors = $("#abg_rp_num_directors").val();
     if (numDirectors == 0){

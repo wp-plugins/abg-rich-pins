@@ -3,8 +3,11 @@
 /*
  Styles for ABG Rich Pins
  Author: Antonio Borrero Granell
- Project URI: 
+ Project URI: http://wordpress.org/plugins/abg-rich-pins/
 */
 .pin_form_hidden {
 	visibility: hidden;
+}
+.pin_subform {
+	display: none;
 }

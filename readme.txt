@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=K9JLL
 Tags: pinterest, rich, pin, semantic, meta, social
 Requires at least: 3.3
 Tested up to: 3.6
-Stable tag: /tags/1.0/
+Stable tag: /tags/1.1/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,9 +25,6 @@ If you need more information, check [Pinterest for Developers](http://developers
 
 == Frequently asked questions ==
 
-= I can only enter the type of pin =
-
-You should select the type of pin and save the post. After that, when you edit the post, you can add the rest of the information for this pin
 
 = There're some parameters that are not included (e.g. genre for movies) =
 Pinterest validator doesn't validate some fields. I decided not to include these parameters. 
@@ -44,6 +41,9 @@ Pinterest doesn't validate ingredients in other languages
 1. metabox
 
 == Changelog ==
+= 1.1 =
+* User experience improved
+
 = 1.0 =
 * 06 aug 2013
 * Initial release
